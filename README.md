@@ -1,4 +1,4 @@
-# EXCEED — false discovery control for anomaly localization from nominal images only
+# EXCEED: false discovery control for anomaly localization from nominal images only
 
 Official Implementation of the paper _False Discovery Control for Anomaly Localization from Nominal Images Only_.
 
