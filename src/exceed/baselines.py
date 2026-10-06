@@ -1,8 +1,5 @@
-"""Thresholding baselines for one-class anomaly segmentation.
-
-All rules see the same inputs as EXCEED: score maps of n nominal calibration images
-(shape (n, H, W)) and the test score map (H, W). The oracle uses test labels and is a
-reference only.
+"""Thresholding baselines for one-class anomaly segmentation. All rules see the same inputs as EXCEED: score maps of n nominal calibration images
+(shape (n, H, W)) and the test score map (H, W). The oracle uses test labels and is a reference only.
 """
 from __future__ import annotations
 
